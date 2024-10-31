@@ -81,7 +81,7 @@ export default function Navbar(props: prop) {
           >
             <img
               className="w-100"
-              src="https://res-console.cloudinary.com/dwebp7uo7/thumbnails/v1/image/upload/v1729701876/cHVpdmFpcWpjZmd2cGZ4Z3hoODU=/drilldown"
+              src="https://aliamir.sirv.com/Images/Screenshot_2024-10-23_194256-removebg-preview%20(1).png"
               alt="Logo"
             />
           </Box>
@@ -163,7 +163,7 @@ export default function Navbar(props: prop) {
 
             <img
               className="w-100 smallLogo"
-              src="https://res-console.cloudinary.com/dwebp7uo7/thumbnails/v1/image/upload/v1729701876/cHVpdmFpcWpjZmd2cGZ4Z3hoODU=/drilldown"
+              src="https://aliamir.sirv.com/Images/Screenshot_2024-10-23_194256-removebg-preview%20(1).png"
               alt="Logo"
             />
           </Box>
